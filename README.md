@@ -1,6 +1,8 @@
-# Welcome to your CDK TypeScript project
+# Welcome to our  Serverless Application
 
-This is a blank project for CDK development with TypeScript.
+![image](https://github.com/SUBBARAMIREDDY-K/aws-serverless-app/assets/91323223/56564adc-3618-46ce-9d02-90b7d80af0ab)
+
+This is a Serverless Application with CDK development using TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
@@ -12,4 +14,3 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
-![image](https://github.com/SUBBARAMIREDDY-K/aws-serverless-app/assets/91323223/ead441fd-3611-4932-b40e-d0a31a4de239)
