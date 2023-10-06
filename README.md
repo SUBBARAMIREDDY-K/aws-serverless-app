@@ -1,6 +1,7 @@
 # Welcome to our  Serverless Application
 
-![image](https://github.com/SUBBARAMIREDDY-K/aws-serverless-app/assets/91323223/56564adc-3618-46ce-9d02-90b7d80af0ab)
+![image](https://github.com/SUBBARAMIREDDY-K/aws-serverless-app/assets/91323223/08afbc3d-6108-42e1-948c-c75f7c1946e1)
+
 
 This is a Serverless Application with CDK development using TypeScript.
 
